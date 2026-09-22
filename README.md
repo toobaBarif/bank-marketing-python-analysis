@@ -45,7 +45,7 @@ The analysis investigates questions such as:
 ## Repository Structure
 
 - `bank_marketing_analysis.ipynb` - Complete Python analysis
-- `data/` - Source dataset
+- `BAnk dataset/` - Source dataset
 - `README.md` - Project documentation
 
 ## Project Status
