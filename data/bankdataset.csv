@@ -235,7 +235,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 29,services,single,secondary,no,32,yes,no,unknown,4,jun,563,1,-1,0,unknown,yes
 30,self-employed,married,tertiary,no,543,yes,yes,unknown,4,jun,1449,6,-1,0,unknown,yes
 36,blue-collar,married,primary,no,403,yes,no,unknown,4,jun,920,1,-1,0,unknown,yes
-35,admin.,divorced,secondary,no,437,yes,no,unknown,4,jun,908,1,-1,0,unknown,yes
+35,admin.,divorced,secondary,no,437,yes,no,unknown,4,jun,908,1,tyu-1,0,unknown,yes
 36,blue-collar,married,secondary,no,1772,no,no,unknown,5,jun,208,1,-1,0,unknown,yes
 59,retired,divorced,primary,no,-88,yes,no,unknown,5,jun,910,2,-1,0,unknown,yes
 47,entrepreneur,married,secondary,no,0,no,no,unknown,5,jun,1446,1,-1,0,unknown,yes
